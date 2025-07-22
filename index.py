@@ -3,6 +3,7 @@ from playwright.sync_api import sync_playwright
 
 urls = [
     "https://4br.me/r3F19LoX",
+    "https://shrtlk.biz/86Hyt"
 
 ]
 
